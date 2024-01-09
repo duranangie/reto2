@@ -10,7 +10,7 @@ package com.mycompany.bibliotecaangieduran;
  */
 public enum tiposRevistas {
     
- RevMedica("medicina") , revConvenciona("Convencional"), revBabys("maternidad");
+ RevMedica("medicina") , revConvenciona("Convencional"), revBabys("maternidad"), revInformaticas("Informatica"), revFarandula("famosos"),revCientifica("ciencia e inovacion");
 
     
 private String Descripcion;
